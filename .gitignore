@@ -1,0 +1,16 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+__pycache__/
+
+# IDEs y editores
+.idea/
+.vscode/
+
+# Archivos de entorno y credenciales (¡MUY IMPORTANTE!)
+.env
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
